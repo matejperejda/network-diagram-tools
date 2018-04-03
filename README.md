@@ -45,7 +45,8 @@
 ## Creately ([https://creately.com/](https://creately.com/))
 
 - $5-750/month
-- **Free** (limit 5 diagrams)
+- **Free** (limit 5 PUBLIC diagrams; export only PNG, JPEG)
+- [Samples](https://drive.google.com/open?id=10VrT27iQyMIIrBkWD9dQwH_y5dH56MQF)
 
 ## Dia ([http://dia-installer.de/](http://dia-installer.de/))
 
