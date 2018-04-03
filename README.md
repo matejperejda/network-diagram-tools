@@ -52,7 +52,7 @@
 
 - **Free**
 - Based on Microsoft Visio
-- Desktop app
+- Desktop app (Win, Mac, Linux)
 
 ## Diagram Designer ([http://logicnet.dk/DiagramDesigner/](http://logicnet.dk/DiagramDesigner/))
 
